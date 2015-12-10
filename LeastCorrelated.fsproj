@@ -67,7 +67,6 @@
     <Compile Include="LeastCorrelated.fs" />
     <Compile Include="Test.fs" />
     <Compile Include="Program.fs" />
-    <None Include="Script.fsx" />
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
