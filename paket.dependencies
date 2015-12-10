@@ -1,0 +1,10 @@
+source https://www.nuget.org/api/v2/
+framework >= net45
+
+nuget Alea.CUDA 2.2.0.3307
+nuget Alea.CUDA.IL 2.2.0.3307
+nuget Alea.CUDA.Unbound 2.2.0.3307
+nuget Alea.IL 2.2.0.3307
+nuget FSharp.Core 3.1.2.5
+nuget FsUnit 1.4.0.0
+nuget NUnit 2.6.4
